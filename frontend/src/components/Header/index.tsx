@@ -9,7 +9,7 @@ function Header() {
                     <h1>DSMeta</h1>
                     <p>
                         Desenvolvido por 
-                        <a href="https://github.com/fabioschagas/dsmeta-css"> fabioschagas</a>
+                        <a href="https://github.com/fabioschagas/dsmeta"> fabioschagas</a>
                     </p>
             </div>
         </header>
