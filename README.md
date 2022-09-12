@@ -66,7 +66,7 @@ Backend:
 
 A aplicação pode ser acessada no link abaixo para validar o seu funcionamento.
 
- - Frontend [dsmeta-fabioschagas.netlify.app](https://dsmeta-fabioschagas.netlify.app/)
+ - Frontend [sales.fabiochagas.com](https://sales.fabiochagas.com/)
  - Backend [dsmeta-fabioschagas.herokuapp.com](https://dsmeta-fabioschagas.herokuapp.com/sales)
  
  
